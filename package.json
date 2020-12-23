@@ -2,8 +2,10 @@
   "dependencies": {
     "cosmicjs": "^3.3.2",
     "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "shorti": "^1.2.6",
-    "yarn": "^0.17.9"
+    "yarn": "^0.17.10"
   },
   "scripts": {
     "development": "NODE_ENV=development next",
